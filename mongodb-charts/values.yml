@@ -1,0 +1,11 @@
+replicaCount: 1
+
+image:
+  repository: mongo
+  tag: 4.4.10
+
+service:
+  port: 27017
+
+storageClassName: "standard"
+storageSize: 1Gi

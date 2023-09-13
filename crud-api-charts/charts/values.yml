@@ -1,0 +1,4 @@
+apiVersion: v2
+name: crud-api
+description: A Helm chart for the CRUD API component.
+version: 0.1.0
